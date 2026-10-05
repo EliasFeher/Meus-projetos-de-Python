@@ -1,3 +1,6 @@
+# Este programa foi criado por mim para um projeto escolar.
+# Painel de Gestão de Recursos Humanos, usando modularização com funções.
+
 #funções:
 def classificar_desempenho(pontuacao):
   if pontuacao < 50:
